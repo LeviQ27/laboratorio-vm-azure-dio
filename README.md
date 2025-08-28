@@ -90,7 +90,7 @@ Assim, sabendo o caminho para onde baixou a chave `.pem` da VM,
 
 ### Conclusão
 
-A criação de uma máquina virtual no Azure demonstrou, de forma prática, como a plataforma possibilita a rápida disponibilização de recursos de infraestrutura em nuvem. Durante o processo, foi possível compreender as etapas essenciais — desde a configuração inicial da VM, escolha da imagem do sistema operacional, definição de usuário e portas de acesso, até a conexão segura via SSH.
+A criação de uma máquina virtual no Azure demonstrou, de forma prática, como a plataforma possibilita a rápida disponibilização de recursos de infraestrutura em nuvem. Durante o processo, foi possível compreender as etapas essenciais; Desde a configuração inicial da VM, escolha da imagem do sistema operacional, definição de usuário e portas de acesso, até a conexão segura via SSH.
 
 Além disso, o desafio reforçou a importância de boas práticas de gerenciamento, como o uso correto das chaves de autenticação, a configuração de desligamento automático e a limpeza de recursos não utilizados, evitando custos desnecessários.
 
